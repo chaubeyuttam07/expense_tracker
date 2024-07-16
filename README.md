@@ -55,5 +55,5 @@ npm start
 ## Contact
 
 <h1>TO VISIT MY GITHUB PROFILE</h1><a href="https://github.com/chaubeyuttam07">click here</a>
-<p><a href="mailto:chaubeyuttam2003@gmail.com">Send Feedback on this mail</a></p>
+<p>For sending feedback<a href="mailto:chaubeyuttam2003@gmail.com">click here</a></p>
 
