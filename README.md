@@ -11,12 +11,12 @@ Keep track of your income and expenses with the Expense Tracker app. This React 
 
 ### Add Transaction
 
-<img src="/img/02.png" width="800" >
+<img src="expense-tracker/img/02.png" width="800" >
 
 
 ### Delete Transaction
 
-<img src="/img/03.png" width="800" >
+<img src="expense-tracker/img/03.png" width="800" >
 
 
 
