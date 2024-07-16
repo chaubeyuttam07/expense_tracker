@@ -54,4 +54,5 @@ npm start
 
 ## Contributing
 
-Pull requests are welcome add some new features or fix any bugs you find.
+<h1>TO VISIT MY GITHUB PROFILE</h1><a href="https://github.com/chaubeyuttam07">click here</a>
+
