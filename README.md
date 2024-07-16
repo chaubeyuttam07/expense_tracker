@@ -7,7 +7,7 @@ Keep track of your income and expenses with the Expense Tracker app. This React 
  ### Landing Page
  
  
-<img src="expense tracker/img/01.png" width="800" >
+<img src="expense-tracker/img/01.png" width="800" >
 
 ### Add Transaction
 
